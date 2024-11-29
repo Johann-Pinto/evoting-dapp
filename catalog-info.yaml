@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: evoting-dapp
+  annotations:
+    github.com/project-slug: Johann-Pinto/evoting-dapp
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Johann-Pinto
